@@ -1,13 +1,25 @@
 ### 技術ブログ
-notion
+notion:
 https://tabby-transport-43a.notion.site/1fe4c265b1cd44f88cb525249a2752e2
-qiita
+
+qiita:
 https://qiita.com/Ryosuke-nakagawa
 
 ### 個人開発
-|Baby Names|ヒラマサを探せ|
+|アプリ名|[Baby Names](https://www.baby-names-app.com/)|[ヒラマサを探せ](https://www.find-hiramasa.com/)|
+|---|---|---|
+|どんなアプリ|夫婦で赤ちゃんの名前を考えるアプリ|ヒラマサを探すゲームアプリ（スマホのみ対応）|
+|repository|https://github.com/Ryosuke-nakagawa/Baby_name-s|https://github.com/Ryosuke-nakagawa/find_hiramasa|
+|イメージ|<img src="https://i.gyazo.com/b032219411a89b0850011499f5e5b191.png" width=400px height=300px >|<img src="https://i.gyazo.com/d9c77d0f60ad5c97f486d8210f009259.png" width=400px height=300px >|
+
+
+### チーム開発(2人)
+|アプリ名|マジ助かる！|
 |---|---|
-|[![Image from Gyazo](https://i.gyazo.com/b032219411a89b0850011499f5e5b191.png)](https://gyazo.com/b032219411a89b0850011499f5e5b191)|[![Image from Gyazo](https://i.gyazo.com/d9c77d0f60ad5c97f486d8210f009259.png)](https://gyazo.com/d9c77d0f60ad5c97f486d8210f009259)|
+|どんなアプリ|スクール内のmattermostに投稿された有益な情報を集めて定期的に配信するアプリ(非公開)|
+|repository|https://github.com/akinari0919/maji-info|
+|イメージ|<img src="https://user-images.githubusercontent.com/88041615/179361118-ba6fa511-531a-4485-beff-ad6bb68b9fae.png" width=300px height=300px >|
+
 
 <!--
 **Ryosuke-nakagawa/Ryosuke-nakagawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
