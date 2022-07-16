@@ -1,4 +1,13 @@
-### Hi there 👋
+### 技術ブログ
+notion
+https://tabby-transport-43a.notion.site/1fe4c265b1cd44f88cb525249a2752e2
+qiita
+https://qiita.com/Ryosuke-nakagawa
+
+### 個人開発
+|Baby Names|ヒラマサを探せ|
+|---|---|
+|[![Image from Gyazo](https://i.gyazo.com/b032219411a89b0850011499f5e5b191.png)](https://gyazo.com/b032219411a89b0850011499f5e5b191)|[![Image from Gyazo](https://i.gyazo.com/d9c77d0f60ad5c97f486d8210f009259.png)](https://gyazo.com/d9c77d0f60ad5c97f486d8210f009259)|
 
 <!--
 **Ryosuke-nakagawa/Ryosuke-nakagawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
