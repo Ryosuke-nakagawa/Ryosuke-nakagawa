@@ -14,9 +14,9 @@ https://qiita.com/Ryosuke-nakagawa
 
 
 ### チーム開発(2人)
-|アプリ名|マジ助かる！|
+|アプリ名|マジ助かる！(非公開)|
 |---|---|
-|どんなアプリ|スクール内のmattermostに投稿された有益な情報を集めて定期的に配信するアプリ(非公開)|
+|どんなアプリ|スクール内のmattermostに投稿された有益な情報を集めて定期的に配信用mattermostチャンネルに投稿するアプリ|
 |repository|https://github.com/akinari0919/maji-info|
 |イメージ|<img src="https://user-images.githubusercontent.com/88041615/179361118-ba6fa511-531a-4485-beff-ad6bb68b9fae.png" width=300px height=300px >|
 
