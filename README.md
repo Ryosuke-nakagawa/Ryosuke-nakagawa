@@ -6,9 +6,10 @@ qiita:
 https://qiita.com/Ryosuke-nakagawa
 
 ### 個人開発
-|アプリ名|[Baby Names](https://www.baby-names-app.com/)|[ヒラマサを探せ](https://www.find-hiramasa.com/)|
+|アプリ名|Baby Names|ヒラマサを探せ|
 |---|---|---|
 |どんなアプリ|夫婦で赤ちゃんの名前を考えるアプリ|ヒラマサを探すゲームアプリ（スマホのみ対応）|
+|URL|https://www.baby-names-app.com/|https://www.find-hiramasa.com/|
 |repository|https://github.com/Ryosuke-nakagawa/Baby_name-s|https://github.com/Ryosuke-nakagawa/find_hiramasa|
 |イメージ|<img src="https://i.gyazo.com/b032219411a89b0850011499f5e5b191.png" width=400px height=300px >|<img src="https://i.gyazo.com/d9c77d0f60ad5c97f486d8210f009259.png" width=400px height=300px >|
 
