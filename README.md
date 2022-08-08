@@ -1,11 +1,11 @@
-### 技術ブログ
+## 技術ブログ
 notion:
 https://tabby-transport-43a.notion.site/1fe4c265b1cd44f88cb525249a2752e2
 
 qiita:
 https://qiita.com/Ryosuke-nakagawa
 
-### 個人開発
+## 個人開発
 |アプリ名|Baby Names|ヒラマサを探せ|
 |---|---|---|
 |どんなアプリ|夫婦で赤ちゃんの名前を考えるアプリ|ヒラマサを探すゲームアプリ（スマホのみ対応）|
@@ -14,7 +14,7 @@ https://qiita.com/Ryosuke-nakagawa
 |イメージ|<img src="https://i.gyazo.com/b032219411a89b0850011499f5e5b191.png" width=400px height=300px >|<img src="https://i.gyazo.com/d9c77d0f60ad5c97f486d8210f009259.png" width=400px height=300px >|
 
 
-### チーム開発(2人)
+## チーム開発(2人)
 |アプリ名|マジ助かる！(非公開)|
 |---|---|
 |どんなアプリ|スクール内のmattermostに投稿された有益な情報を集めて定期的に配信用mattermostチャンネルに投稿するアプリ|
